@@ -63,5 +63,8 @@ design → build → scale → optimize → repeat
 
 ```bash
 Idea → 0 → 1 → Scale → Optimize → Repeat
-<p align="center"> <i>systems > code • impact > features</i> </p>
 ```
+
+---
+
+<p align="center"> <i>systems > code • impact > features</i> </p>
