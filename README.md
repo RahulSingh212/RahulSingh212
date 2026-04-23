@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/smallnest/smallnest/master/developer.gif" width="400"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/RahulSingh212">
     <img src="https://img.shields.io/github/followers/RahulSingh212?style=for-the-badge&logo=github" />
   </a>
@@ -28,9 +32,36 @@
 + impact driven → growth ↑ 40% • latency ↓ • real users
 ```
 
+---
+
 ## 🧠 what i do
 
 design → build → scale → optimize → repeat
+
+---
+
+## 🚀 domains i've worked in
+
+- 🧠 AI Systems → LLM apps, vision models, embeddings, semantic pipelines  
+- 🏗️ Backend Systems → microservices, APIs, distributed systems  
+- 🌐 Full Stack → high-performance web apps, SSR, dashboards  
+- 📱 Mobile → cross-platform apps with real-time sync  
+- ☁️ Cloud Infra → scalable deployments, CI/CD, caching, CDN  
+
+---
+
+## 🤖 AI work (hover mindset)
+
+<details>
+<summary>explore AI systems i've built 👇</summary>
+
+- Multi-modal systems (image + text + video understanding)  
+- GPT-based conversational systems with context awareness  
+- Embedding pipelines for semantic search & clustering  
+- AI-powered personalization & feedback engines  
+- Secure AI pipelines with PII scrubbing & tone adaptation  
+
+</details>
 
 ---
 
@@ -59,12 +90,18 @@ design → build → scale → optimize → repeat
 
 ---
 
-## 🏗️ mindset
+## 🏗️ engineering mindset
 
 ```bash
 Idea → 0 → 1 → Scale → Optimize → Repeat
+Ship fast → Measure → Improve → Automate
+Systems > Features
+Impact > Code
 ```
 
 ---
 
-<p align="center"> <i>systems > code • impact > features</i> </p>
+<p align="center">
+<i>i don’t just build features — i build systems that scale</i>
+</p>
+
