@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm rahul 👋</h1>
+<h1 align="center">hey, i'm Rahul Singh 👋</h1>
 <h3 align="center">building 0 → 1 systems • scaling products • shipping AI</h3>
 
 <p align="center">
